@@ -1,1 +1,1 @@
-s1 = print("Binary to Decimal : ",  int(input("Enter Binary String: "), 2))
+s1 = print("Binary to decimal : ",  int(input("Enter binary string: "), 2))
