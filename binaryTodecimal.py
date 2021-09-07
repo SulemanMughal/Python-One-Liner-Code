@@ -1,0 +1,1 @@
+s1 = print("Binary to Decimal : ",  int(input("Enter Binary String: "), 2))
